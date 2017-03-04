@@ -23,5 +23,25 @@
 }
 
 /* Posititoning Classes */
+/* featured brands */
+.positioninig1 {
+ width: 66%;
+ float: left;
 
-
+}
+.positioninig2 {
+  width: 32%;
+  float: right;
+}
+.positioninig3 {
+ width: 32%;
+ float: left;
+ margin: 2% 0 ;
+}
+.fix1 {
+  margin-left: 2%;
+}
+.detailsfix {
+  float: left;
+  width: 32%;
+}
